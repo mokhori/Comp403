@@ -11,8 +11,4 @@ int main(){
     cout<<a<<"\n"<<b;
 
     return 0;
-
-    int ResultForCalculate
-
-
 }
